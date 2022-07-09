@@ -1,7 +1,7 @@
 :root {
     --color-bg: #202020;
     --color-fg: #d3cec1;
-    --color-link: #563f70; /* c8bed1 */
+    --color-link: #c8bed1; /* c8bed1 */
     --color-link-visited: #c8bed1;
     --color-link-hover: #d3cec1;
 }
